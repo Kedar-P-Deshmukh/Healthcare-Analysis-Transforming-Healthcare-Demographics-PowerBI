@@ -38,11 +38,11 @@ o	Identified and addressed missing data in both datasets. Addressed duplicate en
 4.	Data Type Conversion 
 o	Converted 'AdmissionDate' and 'DischargeDate' to the appropriate date formats. Calculate the length of stay for each patient.
 5.	New column creation
-
 o	Created a new column categorizing patients into age groups (e.g., Child, Adult, Senior). 
 o	Calculate the total cost of treatment for each patient 
 6.	Chart preparations: -
 o	Prepared various chart and graphs to find insights of data
+
 Part 2: Dashboard Building
 1.	Comprehensive Healthcare Dashboard 
 o	Created a dashboard in Power BI showcasing key metrics like patient demographics, diagnosis distribution, treatment costs, and recovery ratings. Include filters for hospitals, diagnosis, and treatment types.
