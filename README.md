@@ -1,10 +1,10 @@
 # Healthcare-Analysis-Transforming-Healthcare-Demographics-PowerBI
 
-**Problem Statement:- **
+**Problem Statement:-**
 This project’s  objective is to leverage Power BI for a deep dive into the provided healthcare datasets. This task encompasses meticulous data cleaning and sophisticated data modelling, utilizing DAX for advanced analytics. Our goal is to create a comprehensive, interactive dashboard in Power BI that presents a cohesive narrative of the healthcare data. This dashboard should serve as a tool to uncover and visualize important trends, such as the interplay between patient demographics and treatment outcomes, cost implications of various medical procedures, and overall hospital performance metrics. This analysis will provide invaluable insights, aiding healthcare providers in enhancing patient care and operational efficiency, and positioning HealthStat Solutions at the forefront of healthcare analytics.
 
 
-**Data Source:- **
+**Data Source:-**
 HealthcareDataset1.xlsx
 The "HealthcareDataset1.xlsx" file contains the following columns:
 1.	PatientID: A unique identifier for each patient. (Primary Key)
@@ -28,7 +28,7 @@ The "HealthcareDataset2.xlsx" file contains the following columns:
 6.	TreatmentType: Type of treatment provided.
 7.	RecoveryRating: A rating of the patient's recovery (out of 10).
 
-**Approach:- **
+**Approach:-**
 Part 1: Data Cleaning, Modeling, and DAX in Power BI
 1.	Data Importing and Initial Examination 
 o	Imported both datasets into Power BI. Performed a preliminary examination of the data. Identified any data quality issues or inconsistencies.
@@ -49,17 +49,20 @@ Part 2: Dashboard Building
 o	Created a dashboard in Power BI showcasing key metrics like patient demographics, diagnosis distribution, treatment costs, and recovery ratings. Include filters for hospitals, diagnosis, and treatment types.
 2.	Interactive Hospital Performance Comparison 
 o	Create an interactive section comparing different hospitals' performance based on patient load, treatment costs, and recovery ratings.
- 
- 
+
+ ![Alt text]([image_url](https://drive.google.com/file/d/1xrQwlxjijoKTuT83LzffD-tdrLzywOJo/view?usp=sharing))
+
+ ![Alt text]([image_url](https://drive.google.com/file/d/1EKm_a1HQsNBpG_uBzWZUBdYpVn7BElpy/view?usp=sharing))
+
 
 **Key Insights :-**
-Higher number of patients lead to lower average recovery rating for a doctor. 
-Average recovery rating for counselling was highest with 5.58 and for surgery it was least with 5.24 
-Average room utilization of room is hospital is around 1.2 with Green Valley Medical Center has highest average room utilisation of 1.26 on the country maple grow health facility has the list average room utility of 1.14. 
-Higher number of patients lead to lower average recovery rating for a doctor. 
-Cedar Sinai Clinic has the highest average total cost followed by Green Valley Medical Centre, maple grow health facility silver Oak medical plaza and riverside hospital. 
+Higher number of patients lead to lower average recovery rating for a doctor.   
+Average recovery rating for counselling was highest with 5.58 and for surgery it was least with 5.24.   
+Average room utilization of room is hospital is around 1.2 with Green Valley Medical Center has highest average room utilisation of 1.26 on the country maple grow health facility has the list average room utility of 1.14.   
+Higher number of patients lead to lower average recovery rating for a doctor.   
+Cedar Sinai Clinic has the highest average total cost followed by Green Valley Medical Centre, maple grow health facility silver Oak medical plaza and riverside hospital.   
 
-There was serge in average total cost in 2022.
+There was serge in average total cost in 2022.   
 
 **Conclusion: -**
 In this project we analysed healthcare datasets using Power BI. We pre-processed the data by cleaning and mean amputation, created new columns,
