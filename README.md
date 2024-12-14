@@ -50,9 +50,10 @@ o	Created a dashboard in Power BI showcasing key metrics like patient demographi
 2.	Interactive Hospital Performance Comparison 
 o	Create an interactive section comparing different hospitals' performance based on patient load, treatment costs, and recovery ratings.
 
- ![Alt text]([image_url](https://drive.google.com/file/d/1xrQwlxjijoKTuT83LzffD-tdrLzywOJo/view?usp=sharing))
+![Alt text](https://drive.google.com/file/d/1xrQwlxjijoKTuT83LzffD-tdrLzywOJo/view?usp=sharing)
 
- ![Alt text]([image_url](https://drive.google.com/file/d/1EKm_a1HQsNBpG_uBzWZUBdYpVn7BElpy/view?usp=sharing))
+![Alt text](https://drive.google.com/file/d/1EKm_a1HQsNBpG_uBzWZUBdYpVn7BElpy/view?usp=sharing)
+
 
 
 **Key Insights :-**
