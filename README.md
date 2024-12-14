@@ -5,8 +5,7 @@ This project’s  objective is to leverage Power BI for a deep dive into the pro
 
 
 **Data Source:-**
-HealthcareDataset1.xlsx
-The "HealthcareDataset1.xlsx" file contains the following columns:
+
 1.	PatientID: A unique identifier for each patient. (Primary Key)
 2.	PatientName: Name of the patient.
 3.	Age: Age of the patient.
@@ -19,7 +18,7 @@ The "HealthcareDataset1.xlsx" file contains the following columns:
 10.	TotalBill: The total bill amount for the patient's treatment.
 11.	Full Prescription Details: Detailed prescription information including medication names, dosages, frequency, and duration
 
-The "HealthcareDataset2.xlsx" file contains the following columns:
+
 1.	PatientID: A unique identifier for each patient, corresponding to 'PatientID' in "HealthcareDataset1.xlsx". (Foreign Key)
 2.	Hospital: The name of the hospital where the patient was treated.
 3.	DoctorName: Name of the doctor who treated the patient.
