@@ -35,24 +35,24 @@ HealthcareDataset2.xlsx
 
 **Approach:-**
 Part 1: Data Cleaning, Modeling, and DAX in Power BI
-1.	Data Importing and Initial Examination 
+1.	Data Importing and Initial Examination   
 o	Imported both datasets into Power BI. Performed a preliminary examination of the data. Identified any data quality issues or inconsistencies.
-2.	Merging and Relating Datasets 
+2.	Merging and Relating Datasets   
 o	Merged the datasets using a suitable column as a key. Ensured that the merge is accurate and retains all necessary information.
-3.	Cleaning: Handling Missing and Irrelevant Data 
+3.	Cleaning: Handling Missing and Irrelevant Data   
 o	Identified and addressed missing data in both datasets. Addressed duplicate entries and irrelevant data points, ensuring data quality.
-4.	Data Type Conversion 
+4.	Data Type Conversion   
 o	Converted 'AdmissionDate' and 'DischargeDate' to the appropriate date formats. Calculate the length of stay for each patient.
-5.	New column creation
-o	Created a new column categorizing patients into age groups (e.g., Child, Adult, Senior). 
-o	Calculate the total cost of treatment for each patient 
-6.	Chart preparations: -
-o	Prepared various chart and graphs to find insights of data
+5.	New column creation  
+o	Created a new column categorizing patients into age groups (e.g., Child, Adult, Senior).   
+o	Calculate the total cost of treatment for each patient   
+6.	Chart preparations: -  
+o	Prepared various chart and graphs to find insights of data  
 
 Part 2: Dashboard Building
-1.	Comprehensive Healthcare Dashboard 
+1.	Comprehensive Healthcare Dashboard   
 o	Created a dashboard in Power BI showcasing key metrics like patient demographics, diagnosis distribution, treatment costs, and recovery ratings. Include filters for hospitals, diagnosis, and treatment types.
-2.	Interactive Hospital Performance Comparison 
+2.	Interactive Hospital Performance Comparison   
 o	Create an interactive section comparing different hospitals' performance based on patient load, treatment costs, and recovery ratings.
 
 ![Image 1](https://drive.google.com/uc?id=1xrQwlxjijoKTuT83LzffD-tdrLzywOJo)
