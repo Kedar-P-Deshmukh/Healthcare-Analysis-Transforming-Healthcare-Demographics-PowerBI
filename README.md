@@ -61,12 +61,12 @@ o	Create an interactive section comparing different hospitals' performance based
 
 
 
-**Key Insights :-**
-Higher number of patients lead to lower average recovery rating for a doctor.   
-Average recovery rating for counselling was highest with 5.58 and for surgery it was least with 5.24.   
-Average room utilization of room is hospital is around 1.2 with Green Valley Medical Center has highest average room utilisation of 1.26 on the country maple grow health facility has the list average room utility of 1.14.   
-Higher number of patients lead to lower average recovery rating for a doctor.   
-Cedar Sinai Clinic has the highest average total cost followed by Green Valley Medical Centre, maple grow health facility silver Oak medical plaza and riverside hospital.   
+**Key Insights :-**  
+1.Higher number of patients lead to lower average recovery rating for a doctor.   
+2. Average recovery rating for counselling was highest with 5.58 and for surgery it was least with 5.24.     
+3. Average room utilization of room is hospital is around 1.2 with Green Valley Medical Center has highest average room utilisation of 1.26 on the country maple grow health facility has the list average room utility of 1.14.     
+4. Higher number of patients lead to lower average recovery rating for a doctor.     
+5. Cedar Sinai Clinic has the highest average total cost followed by Green Valley Medical Centre, maple grow health facility silver Oak medical plaza and riverside hospital.     
 
 There was serge in average total cost in 2022.   
 
