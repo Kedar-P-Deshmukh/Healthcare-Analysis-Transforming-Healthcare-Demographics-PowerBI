@@ -6,6 +6,11 @@ This project’s  objective is to leverage Power BI for a deep dive into the pro
 
 **Data Source:-**
 
+For the project we used 2 data set each with 1000 rows, 
+Each row in first data set show individual patient related data like gender, age, Diagnosis, Treatment, cost of treatment etc. 
+other data set contains data of 5 renounced hospital in USA has details like, hospital name, doctor, Room Number, Recovery Rating
+
+HealthcareDataset1.xlsx
 1.	PatientID: A unique identifier for each patient. (Primary Key)
 2.	PatientName: Name of the patient.
 3.	Age: Age of the patient.
@@ -19,6 +24,7 @@ This project’s  objective is to leverage Power BI for a deep dive into the pro
 11.	Full Prescription Details: Detailed prescription information including medication names, dosages, frequency, and duration
 
 
+HealthcareDataset2.xlsx
 1.	PatientID: A unique identifier for each patient, corresponding to 'PatientID' in "HealthcareDataset1.xlsx". (Foreign Key)
 2.	Hospital: The name of the hospital where the patient was treated.
 3.	DoctorName: Name of the doctor who treated the patient.
