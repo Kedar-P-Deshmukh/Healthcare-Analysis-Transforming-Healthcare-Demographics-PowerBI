@@ -1,4 +1,4 @@
-# Healthcare-Analysis-Transforming-Healthcare-Demographics-PowerBI
+# UnitedHealth Group Hospital data Analysis | Data visualization with PowerBI
 
 **Problem Statement:-**
 This project’s  objective is to leverage Power BI for a deep dive into the provided healthcare datasets. This task encompasses meticulous data cleaning and sophisticated data modelling, utilizing DAX for advanced analytics. Our goal is to create a comprehensive, interactive dashboard in Power BI that presents a cohesive narrative of the healthcare data. This dashboard should serve as a tool to uncover and visualize important trends, such as the interplay between patient demographics and treatment outcomes, cost implications of various medical procedures, and overall hospital performance metrics. This analysis will provide invaluable insights, aiding healthcare providers in enhancing patient care and operational efficiency, and positioning HealthStat Solutions at the forefront of healthcare analytics.
